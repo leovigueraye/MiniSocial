@@ -8,8 +8,7 @@ The application is designed and tested to use conveniently without any issues.
 
 ## Features
 
-- Built with Laravel 11
-- Jetstream (Livewire + blade stack)
+- Built with Laravel
 - Create posts
 - Like posts
 - Comment on posts
@@ -61,3 +60,10 @@ php artisan storage:link
 ```
 php artisan serve
 ```
+## Preview
+
+![image](Screenshot%20(142).png)
+
+![image](Screenshot%20(143).png)
+
+![image](Screenshot%20(168).png)
